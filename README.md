@@ -61,17 +61,15 @@ Eu construo **Sistemas Web**, **Sites**, APIs e aplicações modernas.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=alexsousarodrigues1919-max&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsousarodrigues1919-max&layout=compact&theme=radical" />
+## 📈 GitHub Summary
 
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsousarodrigues1919-max&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsousarodrigues1919-max&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsousarodrigues1919-max&theme=tokyonight)
 ---
 
 ## 🚀 Philosophy
